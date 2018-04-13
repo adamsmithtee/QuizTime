@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.adamsmith.quiztime.ChooseSubjectActivity">
+
+    <LinearLayout
+        android:id="@+id/choosesubject"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:background="#fec003"
+      >
+
+        <TextView
+            android:id="@+id/subject"
+           style="@style/categoryStyle"
+            android:text="Choose Subject"
+           />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/subjects"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/choosesubject">
+
+        <TextView
+            android:id="@+id/maths"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Electronics"
+            android:padding="20dp"
+            android:layout_marginTop="30dp"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="#fec003">
+        </View>
+
+        <TextView
+            android:id="@+id/english"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Other subjects"
+            android:padding="20dp"/>
+    </LinearLayout>
+
+
+
+    <TextView
+        android:id="@+id/view_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="name"
+        android:layout_below="@+id/choosesubject"
+       android:gravity="center" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:background="#fec003">
+    </View>
+</RelativeLayout>

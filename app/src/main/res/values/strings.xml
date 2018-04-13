@@ -1,0 +1,116 @@
+<resources>
+    <string name="yes">yes</string>
+    <!-- Preference framework strings. -->
+    <string name="no">no</string>
+
+    <string name="app_name">Quiz Time</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="mathematics">ELECTRONICS</string>
+
+    //ques 1
+
+    <string name="solve1">1. Newton-meter is the unit of ? </string>
+    //option ans
+    <string name="option1_0ne">A. torque</string>
+    <string name="option1_two">B. power</string>
+    <string name="option1_three">C. energy </string>
+    <string name="option1_four">D. work</string>
+
+    //ques 2
+    <string name="solve2">2. One kWh nearly equals ......... Kcal</string>
+    //option ans
+    <string name="option2_One">A. 3600</string>
+    <string name="option2_two">B. 9800</string>
+    <string name="option2_three">C. 860 </string>
+    <string name="option2_four">D. 4200</string>
+
+    //ques 3
+    <string name="solve3"> 3. A motor starter is essentially nfor starting a motor from the rest irrespective of it\'s rating</string>
+    //option ans
+    <string name="option3_One">TRUE</string>
+    <string name="option3_two">FALSE</string>
+
+
+    //ques 4
+    <string name="solve4">4. Kirchoff\'s voltage law is concerned with</string>
+    //option ans
+    <string name="option4_One">A. IR drops</string>
+    <string name="option4_two">B. battery EMF\'s</string>
+    <string name="option4_three">C. junction volyage </string>
+    <string name="option4_four">D. both a and b</string>
+
+    //ques 5
+    <string name="solve5"> 5. While applying Kirchoff\'s laws, directon of current flow may be assumed either clockwise or .......</string>
+
+
+    //ques 6
+    <string name="solve6"> 6. Kirchoff\'s law makes use of branch current</string>
+    //option ans
+    <string name="option6_One">TRUE</string>
+    <string name="option6_two">FALSE</string>
+
+    //ques 7
+    <string name="solve7">7. The unit of intensity of Light is</string>
+    //option ans
+    <string name="option7_One">A. Lux</string>
+    <string name="option7_two">B. lumen</string>
+    <string name="option7_three">C. candela </string>
+    <string name="option7_four">D. steradiand </string>
+
+    //ques 8
+    <string name="solve8">8. Lumen is the unit of.......</string>
+
+
+    //ques 9
+    <string name="solve9">9. The unit of heat is kiloCalorie</string>
+    //option ans
+    <string name="option9_One">TRUE</string>
+    <string name="option9_two">FALSE</string>
+
+    //ques 10
+    <string name="solve10">10. If an ammeter is used as a voltmeter, in all probabilty, it will</string>
+    //option ans
+    <string name="option10_One">A. Burn out</string>
+    <string name="option10_two">B. give extremely low reading</string>
+    <string name="option10_three">C. indicate no reading at all </string>
+    <string name="option10_four">D. indicate much higher reading</string>
+
+    //ques 11
+    <string name="solve11"> 11. Ampere-hour is the unit of</string>
+
+    //ques 12
+    <string name="solve12">12. voltage is equal to.....*..... </string>
+    //option ans
+    <string name="option12_One">current</string>
+    <string name="option12_two"> power</string>
+    <string name="option12_three">resistance </string>
+    <string name="option12_four">watts</string>
+
+    <string name="title_activity_quiz_page">Quiz Time</string>
+    <string name="title_activity_choose_subject">Quiz Time</string>
+    <string name="title_activity_name">Quiz Time</string>
+    <string name="title_activity_new">Quiz Time</string>
+
+
+
+    //answers
+    <string name="ques1">A </string>
+    <string name="ques2">C</string>
+    <string name="ques3">false </string>
+    <string name="ques4">D</string>
+    <string name="ques5">anti-clockwise</string>
+    <string name="ques6">true</string>
+    <string name="ques7">candela</string>
+    <string name="ques8">flux</string>
+    <string name="ques9">true</string>
+    <string name="ques10">D</string>
+    <string name="ques11">charge </string>
+    <string name="ques12">current and resistance </string>
+    <string name="title_activity_result_page">Quiz Time</string>
+
+
+
+</resources>
